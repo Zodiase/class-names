@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Utility function for building className strings",
   "main": "lib/index.js",
+  "types": "lib/index.d.js",
   "engines": {
     "node": ">=6.13.0"
   },
