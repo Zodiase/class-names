@@ -1,6 +1,6 @@
 {
   "name": "@xch/class-names",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility function for building className strings",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
