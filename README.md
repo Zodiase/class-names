@@ -1,5 +1,7 @@
 # @xch/class-names
 
+[![Build Status](https://travis-ci.com/Zodiase/class-names.svg?branch=master)](https://travis-ci.com/Zodiase/class-names)
+
 Utility function for building className strings.
 
 ## Install
