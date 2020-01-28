@@ -11,6 +11,8 @@
         "start": "npm run build:dev-watch",
         "build": "tsc",
         "build:dev-watch": "tsc --watch",
+        "clean:build": "rm -rf lib",
+        "prepare": "npm run clean:build && npm run build",
         "test:dev-watch": "jest --watch",
         "test": "jest"
     },
