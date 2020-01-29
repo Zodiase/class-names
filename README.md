@@ -1,6 +1,6 @@
 # @xch/class-names
 
-[![Build Status](https://travis-ci.com/Zodiase/class-names.svg?branch=master)](https://travis-ci.com/Zodiase/class-names)
+[![Build Status](https://travis-ci.com/Zodiase/class-names.svg?branch=master)](https://travis-ci.com/Zodiase/class-names) [![Greenkeeper badge](https://badges.greenkeeper.io/Zodiase/class-names.svg)](https://greenkeeper.io/)
 
 Utility function for building className strings.
 
