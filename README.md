@@ -1,6 +1,7 @@
 # @xch/class-names
 
-[![Build Status](https://travis-ci.com/Zodiase/class-names.svg?branch=master)](https://travis-ci.com/Zodiase/class-names) 
+[![Build Status](https://travis-ci.com/Zodiase/class-names.svg?branch=master)](https://travis-ci.com/Zodiase/class-names)
+[![Known Vulnerabilities](https://snyk.io/test/github/Zodiase/class-names/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Zodiase/class-names?targetFile=package.json)
 
 Utility function for building className strings.
 
